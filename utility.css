@@ -1,0 +1,34 @@
+.text-center{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.btn{
+    padding: 2px 9px;
+    border-radius: 4px;
+cursor: pointer;
+}
+.btn:hover{
+    font-weight: bolder;
+}
+.login{
+    padding: 2px 18px;
+border-radius: 3px;
+    cursor:pointer;
+    margin-left: 170px;
+}
+.login:hover{
+    font-weight: bolder;
+}
+.my-1{
+    margin: 1px 0;
+}
+.my-2{
+    margin: 7px 0;
+}
+.text-center{
+    align-content: center;
+}
